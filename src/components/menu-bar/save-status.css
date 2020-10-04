@@ -1,4 +1,5 @@
 .save-now {
+    display:none;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     cursor: pointer;
 }

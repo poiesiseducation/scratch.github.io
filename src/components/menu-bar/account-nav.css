@@ -2,7 +2,7 @@
 @import "../../css/units.css";
 
 .user-info {
-    display: inline-flex;
+    display: none;
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;

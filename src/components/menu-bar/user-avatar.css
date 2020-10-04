@@ -2,6 +2,7 @@
 @import "../../css/units.css";
 
 .user-thumbnail {
+    display:none;
     width: $menu-bar-button-size;
     height: $menu-bar-button-size;
     border-radius: $form-radius;
